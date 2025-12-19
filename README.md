@@ -73,8 +73,9 @@ This project solves the problem by:
 <pre>
 websleuth/
 │
-├── scraper.py          # Web scraping script
-├── temp1.html          # Scraped & formatted HTML output
+├── src    # Web scraping script
+├── main.py  # Main File  
+├── requirements.txt          # Scraped & formatted HTML output
 └── README.md
 </pre>
 
